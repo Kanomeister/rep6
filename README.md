@@ -3,7 +3,7 @@
 
 В рамках выполнения проекта предстоит протестировать новый интерфейс авторизации в личном кабинете от заказчика Ростелеком Информационные Технологии по предоставленным требованиям к сайту.
 
-→ Объект тестирования: https://b2c.passport.rt.ru
+Объект тестирования: https://b2c.passport.rt.ru
 
 Задание:
 
@@ -14,7 +14,7 @@
 Протестированы требования и указаны комментарии/замечания по пунктам.
 Разработаны тест-кейсы (более 20) с использованием шаблона.
 Оформлено описание обнаруженных дефектов с использованием шаблона.
-→ Ссылка на документ: https://docs.google.com/spreadsheets/d/1Ai6uvl8sw429p6ikJHIownpwJ2hBrzHFEu1uh7XGy10/edit#gid=1484041689
+Ссылка на документ: https://docs.google.com/spreadsheets/d/1Ai6uvl8sw429p6ikJHIownpwJ2hBrzHFEu1uh7XGy10/edit#gid=1484041689](https://docs.google.com/spreadsheets/d/1ZoTHNpwt3uOZFpXa_fFLOzxaAQM82kv7a2P2dD-Y2cU/edit?gid=0#gid=0
 
 Проект выполнен с использованием: PageObject, Selenium и PyTest.
 
